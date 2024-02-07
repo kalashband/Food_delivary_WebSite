@@ -20,18 +20,7 @@ Footer
 
 
 *  function statement 
-   - function a(){
-   - console.log("a");
-   - }
-
-  a()
   - hoisting applicicable here
-  
-*  function expression
-   - var b= function (){
-      console.log("b")
-   }
-   b()
    - hoisting wont applicable here
 
 *  function decleration 
